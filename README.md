@@ -22,7 +22,7 @@ WebScraper is a Python-based web scraping tool designed to extract temperature d
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/joshuaaid/temp_data_scrape.git
+    git clone [https://github.com/joshuaaid/temp_data_scrape.git](https://github.com/joshuaaid/temp_data_scrape.git)
     cd webscraper
     ```
 
